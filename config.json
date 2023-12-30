@@ -1,0 +1,33 @@
+{
+    "ownerNumber": ["6285175187188@s.whatsapp.net","6282306188666@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ Yayan_Alvaro ×፝֟͜×",
+    "instagram" : "https://instagram.com/_yayan001_",
+    "gcwa" : "https://chat.whatsapp.com/FJnnnk29PwK8XpssKvGc6v",
+    "botName": "Yayan-Botzོ ",
+    "footer": "2023 © api.zeeoneofc.my.id",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "qfs5jcG75uCiYhQ",
+    "OpenAIKey": "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",
+    "audio_di_bagian_menu": "./menu.mp3",
+    "auto_ai_japri": false,
+    "auto_ai_grup": false,
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true, 
+    "antiViewOnce": true,
+    "grupOnly": false,
+    "japriOnly": false, 
+    "antiDelete": false,
+    "autobio": false,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 20,
+    "limitCount": 1000,
+    "gcount": {
+        "prem": 1000,
+        "user": 1000
+    }
+}
