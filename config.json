@@ -18,7 +18,7 @@
     "antiViewOnce": true,
     "grupOnly": false,
     "japriOnly": false, 
-    "antiDelete": true,
+    "antiDelete": false,
     "autobio": false,
     "anticall": true,
     "autorespond": false,
